@@ -1,0 +1,5 @@
+C:\Users\krill\Desktop\SpuriousEmu-Master\ServerFiles\Spurious.WorldServer.exe
+C:\Users\krill\Desktop\SpuriousEmu-Master\ServerFiles\Spurious.WorldServer.pdb
+C:\Users\krill\Desktop\SpuriousEmu-Master\Server\WorldServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\krill\Desktop\SpuriousEmu-Master\Server\WorldServer\obj\Debug\Spurious.WorldServer.exe
+C:\Users\krill\Desktop\SpuriousEmu-Master\Server\WorldServer\obj\Debug\Spurious.WorldServer.pdb

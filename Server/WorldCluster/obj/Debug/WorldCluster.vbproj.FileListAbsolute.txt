@@ -1,0 +1,5 @@
+C:\Users\krill\Desktop\SpuriousEmu-Master\ServerFiles\Spurious.WorldCluster.exe
+C:\Users\krill\Desktop\SpuriousEmu-Master\ServerFiles\Spurious.WorldCluster.pdb
+C:\Users\krill\Desktop\SpuriousEmu-Master\Server\WorldCluster\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\krill\Desktop\SpuriousEmu-Master\Server\WorldCluster\obj\Debug\Spurious.WorldCluster.exe
+C:\Users\krill\Desktop\SpuriousEmu-Master\Server\WorldCluster\obj\Debug\Spurious.WorldCluster.pdb

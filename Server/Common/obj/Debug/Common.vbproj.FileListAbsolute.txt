@@ -1,0 +1,5 @@
+C:\Users\krill\Desktop\SpuriousEmu-Master\Required\Spurious.Common.dll
+C:\Users\krill\Desktop\SpuriousEmu-Master\Required\Spurious.Common.pdb
+C:\Users\krill\Desktop\SpuriousEmu-Master\Server\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\krill\Desktop\SpuriousEmu-Master\Server\Common\obj\Debug\Spurious.Common.dll
+C:\Users\krill\Desktop\SpuriousEmu-Master\Server\Common\obj\Debug\Spurious.Common.pdb

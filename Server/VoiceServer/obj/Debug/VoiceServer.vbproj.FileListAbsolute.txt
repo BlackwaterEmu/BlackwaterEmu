@@ -1,0 +1,5 @@
+C:\Users\krill\Desktop\SpuriousEmu-Master\ServerFiles\Spurious.VoiceServer.exe
+C:\Users\krill\Desktop\SpuriousEmu-Master\ServerFiles\Spurious.VoiceServer.pdb
+C:\Users\krill\Desktop\SpuriousEmu-Master\Server\VoiceServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\krill\Desktop\SpuriousEmu-Master\Server\VoiceServer\obj\Debug\Spurious.VoiceServer.exe
+C:\Users\krill\Desktop\SpuriousEmu-Master\Server\VoiceServer\obj\Debug\Spurious.VoiceServer.pdb

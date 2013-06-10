@@ -1,0 +1,5 @@
+C:\Users\krill\Desktop\SpuriousEmu-Master\ServerFiles\Spurious.RealmServer.exe
+C:\Users\krill\Desktop\SpuriousEmu-Master\ServerFiles\Spurious.RealmServer.pdb
+C:\Users\krill\Desktop\SpuriousEmu-Master\Server\RealmServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\krill\Desktop\SpuriousEmu-Master\Server\RealmServer\obj\Debug\Spurious.RealmServer.exe
+C:\Users\krill\Desktop\SpuriousEmu-Master\Server\RealmServer\obj\Debug\Spurious.RealmServer.pdb

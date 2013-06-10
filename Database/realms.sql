@@ -1,0 +1,1 @@
+INSERT INTO `realms` (`ws_name`, `ws_host`, `ws_port`, `ws_status`, `ws_id`, `ws_type`) VALUES ('Testing', '127.0.0.1', 8085, 1, 1, 1);
