@@ -114,8 +114,9 @@ Public Module WS_Base
         '      Log.WriteLine(LogType.WARNING, "BaseUnit can't die.")
         '  End Sub
         Public Overridable Sub Die(ByRef Attacker As BaseUnit)
-            If Life.Current = 1 Then
-                Life.Current = 0
+            If CHARACTERs(GUID).Life.Current = 1 Then
+
+                CHARACTERs(GUID).CastOnSelf(5)
             End If
         End Sub
         Public Overridable Sub DealDamage(ByVal Damage As Integer, Optional ByRef Attacker As BaseUnit = Nothing)
