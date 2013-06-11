@@ -110,8 +110,13 @@ Public Module WS_Base
         Public AttackPowerModsRanged As Integer = 0
         Public dynamicObjects As New List(Of DynamicObjectObject)
 
+        '   Public Overridable Sub Die(ByRef Attacker As BaseUnit)
+        '      Log.WriteLine(LogType.WARNING, "BaseUnit can't die.")
+        '  End Sub
         Public Overridable Sub Die(ByRef Attacker As BaseUnit)
-            Log.WriteLine(LogType.WARNING, "BaseUnit can't die.")
+            If Life.Current = 1 Then
+                Life.Current = 0
+            End If
         End Sub
         Public Overridable Sub DealDamage(ByVal Damage As Integer, Optional ByRef Attacker As BaseUnit = Nothing)
             Log.WriteLine(LogType.WARNING, "No damage dealt.")
