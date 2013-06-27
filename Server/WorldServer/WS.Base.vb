@@ -1,5 +1,5 @@
 ' 
-' Copyright (C) 2008 Spurious <http://SpuriousEmu.com>
+' Copyright (C) 2013-2014 Blackwater Emu
 '
 ' This program is free software; you can redistribute it and/or modify
 ' it under the terms of the GNU General Public License as published by
