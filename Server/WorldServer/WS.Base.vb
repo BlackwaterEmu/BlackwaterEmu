@@ -1,5 +1,5 @@
 ' 
-' Copyright (C) 2013-2014 Blackwater <No website yet.>
+' Copyright (C) 2008 Spurious <http://SpuriousEmu.com>
 '
 ' This program is free software; you can redistribute it and/or modify
 ' it under the terms of the GNU General Public License as published by
@@ -110,14 +110,8 @@ Public Module WS_Base
         Public AttackPowerModsRanged As Integer = 0
         Public dynamicObjects As New List(Of DynamicObjectObject)
 
-        '   Public Overridable Sub Die(ByRef Attacker As BaseUnit)
-        '      Log.WriteLine(LogType.WARNING, "BaseUnit can't die.")
-        '  End Sub
         Public Overridable Sub Die(ByRef Attacker As BaseUnit)
-            If CHARACTERs(GUID).Life.Current = 1 Then
-
-                CHARACTERs(GUID).CastOnSelf(5)
-            End If
+            Log.WriteLine(LogType.WARNING, "BaseUnit can't die.")
         End Sub
         Public Overridable Sub DealDamage(ByVal Damage As Integer, Optional ByRef Attacker As BaseUnit = Nothing)
             Log.WriteLine(LogType.WARNING, "No damage dealt.")
@@ -383,6 +377,17 @@ Public Module WS_Base
             End Get
             Set(ByVal Value As Byte)
                 cBytes1 = ((cBytes1 And &HFFFFFF00) Or Value)
+            End Set
+        End Property
+
+        Public Property Death_player() As Byte
+            Get
+                Return (cBytes1 And &H10)
+            End Get
+            Set(ByVal value As Byte)
+                cBytes1 = ((cBytes1 And &H10) Or value)
+
+
             End Set
         End Property
 
