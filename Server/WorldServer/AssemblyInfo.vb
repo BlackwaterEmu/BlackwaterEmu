@@ -1,4 +1,5 @@
 ' 
+' Copyright (C) 2008-2012 SpuriousEmu <Website gone>
 ' Copyright (C) 2013-2014 Blackwater <No website yet.>
 '
 ' This program is free software; you can redistribute it and/or modify
