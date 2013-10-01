@@ -1,6 +1,6 @@
 ﻿
 ' 
-' Copyright (C) 2013-2014 Blackwater <No website yet.>
+' Copyright (C) Spurious Emu 2008 and Blackwater Emulator 2013-2014.
 '
 ' This program is free software; you can redistribute it and/or modify
 ' it under the terms of the GNU General Public License as published by
